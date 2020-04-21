@@ -1,6 +1,6 @@
 # Currency Converter - Webpack, React, Bootstrap
 
-Collapsible element with React.js and Webpack
+Currency Converter with React.js and Webpack
 
 ## How to use the files?
 
