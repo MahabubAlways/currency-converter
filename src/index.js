@@ -13,7 +13,7 @@ const GlobalStyle = createGlobalStyle`
   }
   body {
     padding: 50px 0;
-    background-color: #222;
+    background-color: #f1dba9;
   }
   h1 {
       text-align: center;
