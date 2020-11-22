@@ -1,6 +1,6 @@
 # Currency Converter using - React, Bootstrap, Reactstrap
 
-A react Single-Page Currency Converter with React, Bootstrap, Reactstrap!!
+A react Single-Page Currency Converter with React, Bootstrap, Reactstrap!
 
 # Usage
 1. Fork the repo and then clone it or download it.
