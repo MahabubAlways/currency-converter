@@ -28,13 +28,13 @@ export const Content = styled.div`
             padding-left: 40px;
         }
         .currency-flag {
-            background: url('../images/aud.png') no-repeat left center;
+            background: url('images/aud.png') no-repeat left center;
             background-size: 30px auto;
-            &.CAD {background-image: url('../images/cad.png')}
-            &.USD {background-image: url('../images/usd.png')}
-            &.JPY {background-image: url('../images/jpy.png')}
-            &.NZD {background-image: url('../images/nzd.png')}
-            &.GBP {background-image: url('../images/gbp.png')}
+            &.CAD {background-image: url('images/cad.png')}
+            &.USD {background-image: url('images/usd.png')}
+            &.JPY {background-image: url('images/jpy.png')}
+            &.NZD {background-image: url('images/nzd.png')}
+            &.GBP {background-image: url('images/gbp.png')}
         }
     }
     .row-select-currency {
