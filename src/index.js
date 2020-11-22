@@ -18,7 +18,7 @@ const GlobalStyle = createGlobalStyle`
   h1 {
       text-align: center;
       margin-bottom: 18px;
-      color: #fff;
+      color: #1078FF;
       text-transform: uppercase;
   }
 `
